@@ -1,1 +1,4 @@
+def greet_user(username):
 print("Hello there")
+
+greet_user(username:"emma")
